@@ -1,2 +1,2 @@
-# Practice-neogcamp-levelzero-mark12
-mark12 : is your birthday lucky?
+# Practice-neogcamp-levelzero-mark11
+mark11 : is your birthday lucky?
