@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind&display=swap');
+:root{
+    --primary-color:#4C1D95;
+    --secondary-color:#A78BFA;
+}
+body{
+    background-color: #FBCFE8;
+    font-family: 'Hind', sans-serif;
+}
+.container{
+    display: block;
+    text-align: center;
+    max-width:  500px;
+    margin: auto;
+}
+
+label{
+    font-size: large;
+    font-weight: bolder;
+    color: var(--secondary-color);
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+input{
+    width: 45%;
+    margin: auto;
+    display: block;
+    border:0.1rem solid var(--secondary-color);
+    padding: 0.2rem 0.2rem;
+    margin-bottom: 0.5rem;
+}
+#birth-date{
+    font-family: 'Hind', sans-serif;
+}
+#check-btn{
+    width:35%;
+    font-family: 'Hind', sans-serif;
+    padding: 0.5rem 0.5rem;
+    background-color: white;
+    border:0.1rem solid var(--secondary-color);
+    border-radius: 0.5rem;
+    margin: 0.5rem 0.5rem;
+}
+
+#output-div{
+    background-color: white;
+    border:0.1rem solid var(--secondary-color);
+    padding: 2.5rem 2.5rem;
+    margin: 0.5rem 0.5rem;
+}
